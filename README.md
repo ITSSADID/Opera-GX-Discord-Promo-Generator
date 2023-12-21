@@ -2,7 +2,7 @@
 this is pretty much rewrite of `https://github.com/JOY6IX9INE/OperaGX-Discord-Promo-Gen`, but with some changes.
 
 # so, whats new?
-no proxy support; updated headers **BIG SHOUT TO traili FOR THEM**; no more ratelimits; discord webhook support!
+no proxy support, because in this version we **dont need it!**; updated headers **BIG SHOUT TO traili FOR THEM**; no more ratelimits; discord webhook support!
 
 # how to run it?
 install modules:
@@ -22,5 +22,5 @@ big shoutout to:
 https://github.com/JOY6IX9INE
 traili on discord
 
-join my discord server! would appreciate it pretty much :D
-discord.gg/rs2XeQ92Hv
+join my discord server! would appreciate it pretty much :D discord.gg/rs2XeQ92Hv
+you can also star my project, i will also appreciate it pretty much :)
