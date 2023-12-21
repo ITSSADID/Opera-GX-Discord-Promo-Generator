@@ -25,7 +25,7 @@ more threads - more checking. it also takes your pc/vps/whatever/you/use resourc
 
 # oh wow, thats pretty good. can i get authors?
 big shoutout to original creator of generator: `https://github.com/JOY6IX9INE`
-same shoutout to man, who found out method to bypass 429: `@traili` on discord!
+same shoutout to man, who found out method to bypass 429: `@traili` and `@candeeiro` on discord!
 
 big thanks to my discord server, `mehhovcki's user finder`, and whoever will ⭐ star this github repo!
 join my discord server >> https://discord.gg/rs2XeQ92Hv <<
