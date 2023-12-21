@@ -1,27 +1,31 @@
 # hello, world!
-this is pretty much rewrite of `https://github.com/JOY6IX9INE/OperaGX-Discord-Promo-Gen`, but with some changes.
+so, this is rewrite of `@JOY6IX9INE`'s OperaGX promo generator, but without any ratelimits *(doesn't require proxies! yipee!)*
+this is made with some headers added to part, also little rewrite of code and now discord support, so you can run it on your own server!
 
-# so, whats new?
-no proxy support, because in this version we **dont need it!**; updated headers **BIG SHOUT TO traili FOR THEM**; no more ratelimits; discord webhook support!
+# how do i install it?
+1. install via git: `@ git clone https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/`
+2. install .py file: `https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/blob/main/main.py`
 
-# how to run it?
-install modules:
-* requests
-* uuid
+# soo.. what's new in here? why SHOULD I use it?
+1. discord webhook support! you can now use it for your private server, or do it for public. i don't give any flying.. uh...
+2. no more proxies. yippe!! no need to buy proxies!!!! *thank you so much for method, traili on discord!*
+3. well, no colors. yea. just boring white color.
 
-![image](https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/assets/145855444/940f4d6e-f32f-4754-8b94-c8689a664294)
+# okay, i got it, its cool. how DO I run it?
+1. install it. 2 methods how are in "how do i install it?" part
+2. on `line 3` put your discord webhook.
 
-on line #3, put your webhook link in discord; on run it will ask you for how many threads. more threads = more speed.
+![image](https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/assets/145855444/c43502c1-e247-43db-bf51-c6f27411c97d)
 
-![image](https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/assets/145855444/62b61c90-c514-40f2-90ef-77fc137eb063)
-![Discord_XM1bF763Sw](https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/assets/145855444/2d0ab904-8a81-496f-8400-bc36bce92235)
+3. just do `python main.py`
+4. tada! 🎉
 
-please note, that this script doesn't prevent you from being ratelimited on discord part, just removing ratelimits on opera.gx part!
+# on running i get "`> amount of threads:`. what do i put?
+more threads - more checking. it also takes your pc/vps/whatever/you/use resources, but works faster. thats it.
 
-# thats it! :)
-big shoutout to:
-https://discord.com/JOY6IX9INE
-traili on discord
+# oh wow, thats pretty good. can i get authors?
+big shoutout to original creator of generator: `https://github.com/JOY6IX9INE`
+same shoutout to man, who found out method to bypass 429: `@traili` on discord!
 
-join my discord server! would appreciate it pretty much :D discord.gg/rs2XeQ92Hv
-you can also star my project, i will also appreciate it pretty much :)
+big thanks to my discord server, `mehhovcki's user finder`, and whoever will ⭐ star this github repo!
+join my discord server >> https://discord.gg/rs2XeQ92Hv <<
