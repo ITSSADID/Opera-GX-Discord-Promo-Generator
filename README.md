@@ -16,6 +16,7 @@ on line #3, put your webhook link in discord; on run it will ask you for how man
 ![image](https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/assets/145855444/62b61c90-c514-40f2-90ef-77fc137eb063)
 ![Discord_XM1bF763Sw](https://github.com/bruhb0y/Opera-GX-Discord-Promo-Generator/assets/145855444/2d0ab904-8a81-496f-8400-bc36bce92235)
 
+please note, that this script doesn't prevent you from being ratelimited on discord part, just removing ratelimits on opera.gx part!
 
 # thats it! :)
 big shoutout to:
