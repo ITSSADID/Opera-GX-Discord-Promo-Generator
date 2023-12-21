@@ -12,6 +12,8 @@ this is made with some headers added to part, also little rewrite of code and no
 3. well, no colors. yea. just boring white color.
 
 # okay, i got it, its cool. how DO I run it?
+you need python. if still don't have it, go get it here: https://www.python.org/downloads/
+
 1. install it. 2 methods how are in "how do i install it?" part
 2. on `line 3` put your discord webhook.
 
