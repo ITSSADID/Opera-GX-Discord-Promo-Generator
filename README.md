@@ -19,7 +19,7 @@ on line #3, put your webhook link in discord; on run it will ask you for how man
 
 # thats it! :)
 big shoutout to:
-https://github.com/JOY6IX9INE
+https://discord.com/JOY6IX9INE
 traili on discord
 
 join my discord server! would appreciate it pretty much :D discord.gg/rs2XeQ92Hv
