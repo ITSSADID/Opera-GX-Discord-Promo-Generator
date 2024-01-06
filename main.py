@@ -1,6 +1,6 @@
 import os # :3
 
-webhook_link = "" # replace this with your webhook link!
+webhook_link = "https://discord.com/api/webhooks/1193209031263797258/HuGKB1508tiOhOUfcUjjVBhUa2j76S4RYHyepCmvlJo2-xA4cklXtciFB2Sub7ZNKAuJ" # replace this with your webhook link!
 
 while True:
     try:
