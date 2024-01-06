@@ -28,7 +28,7 @@ def request_to_nitro() -> None:
                     free_nitro_token = response.json()["token"] # oh wow, that stinks!
 
                     if free_nitro_token:
-                        content = "[free nitro link](<https://discord.com/billing/partner-promotions/1180231712274387115/"+free_nitro_token+">)"
+                        content = "<https://discord.com/billing/partner-promotions/1180231712274387115/"+free_nitro_token+">"
 
                         print(f"[+] Generated working promo link! Sending to webhook.")
                         requests.post(webhook_link, json={"content": content})
